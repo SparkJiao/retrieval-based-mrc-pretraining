@@ -5,4 +5,4 @@ This is the repo for the paper [REPT: Bridging Language Models and Machine Readi
 
 ## Update
 
-The code is released at [here](https://github.com/alibaba/Retrieval-based-Pre-training-for-Machine-Reading-Comprehension). This repo is deprecated.
+The code is released at [here](https://github.com/SparkJiao/Retrieval-based-Pre-training-for-Machine-Reading-Comprehension). This repo is deprecated.
